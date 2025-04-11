@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="quick-imgur-py",
+    name="quickimgurpy",
     version="0.1.0",
     author="Anthony Z Jiang",
     author_email="anthony.jiang.github@outlook.com",
